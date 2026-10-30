@@ -15,7 +15,7 @@ Taylor Beebe is a Master of Science student at the University of Central Florida
 - [Writing Sample](writing.md)
 
 ## Software Proficiency Samples
-- [ArcGIS Pro Sample]
-- [ArcMap Sample](gis.md)
+- [ArcGIS Pro Sample](arcgispro.md)
+- [ArcMap Sample](arcmap.md)
 - [AutoCAD Sample](autocad.md)
 - [SketchUp Sample](sketchup.md)
