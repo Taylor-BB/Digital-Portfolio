@@ -40,7 +40,7 @@ main {
 
 /* HEADINGS */
 h1 { 
-  border-bottom: 3px solid var(--accent); 
+  border-bottom: 4px solid var(--accent); 
   padding-bottom: 0.5rem;
 }
 h2 { 
@@ -50,7 +50,7 @@ h2 {
 
 /* LINKS */
 a { 
-  color: #823715; 
+  color: #0066cc; 
 }
 a:hover { 
   text-decoration: underline; 
