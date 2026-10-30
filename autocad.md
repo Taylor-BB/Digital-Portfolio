@@ -9,14 +9,14 @@ This page contains documents that were completed for the University of Central F
 
 ## Architectural Floorplan
 <center>
-  <object data="./assets/AutoCAD_1.pdf" type="application/pdf" width="800px" height="400px">
+  <object data="./assets/AutoCAD_1.pdf" type="application/pdf" width="800px" height="450px">
     <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/AutoCAD_1.pdf">Download PDF</a>.</p>
   </object>
 </center>
 
 ## Architectural Elevations
 <center>
-  <object data="./assets/AutoCAD_2.pdf" type="application/pdf" width="800px" height="400px">
+  <object data="./assets/AutoCAD_2.pdf" type="application/pdf" width="800px" height="450px">
     <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/AutoCAD_2.pdf">Download PDF</a>.</p>
   </object>
 </center>
