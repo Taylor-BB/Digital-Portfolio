@@ -1,9 +1,9 @@
 ---
 layout: default
-title: ArcGIS Pro Sample
+title: ArcGIS Pro
 ---
 
-# ArcGIS Pro Sample
+# ArcGIS Pro
 
 Insert text here.
 
