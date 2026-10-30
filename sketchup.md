@@ -1,9 +1,9 @@
 ---
 layout: default
-title: SketchUp Samples
+title: SketchUp Sample
 ---
 
-# SketchUp Samples
+# SketchUp Sample
 
 Insert text here.
 
