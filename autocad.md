@@ -5,7 +5,7 @@ title: AutoCAD
 
 # AutoCAD
 
-Insert text here.
+This page contains documents that were completed for the University of Central Florida’s (UCF) “AutoCAD Basics” continuing education certification program. As reference, the primary goal of this program was to expose students to the features and functions of Autodesk’s AutoCAD program through the development of various unique architectural and engineering-based site plans.
 
 <center>
   <object data="./assets/ENC 3241_Revised Cover Letter_Prof Edits.pdf" type="application/pdf" width="700px" height="700px">
