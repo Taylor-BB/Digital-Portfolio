@@ -11,5 +11,5 @@ Taylor Beebe is a Master of Science student at the University of Central Florida
 
 - [Resume](resume.md)
 - [AutoCAD Sample](autocad.md)
-- [Instructions](instructions.md)
+- [Geographic Information Systems Sample](gis.md)
 - [Proposal](proposal.md)
