@@ -1,9 +1,9 @@
 ---
 layout: default
-title: AutoCAD Samples
+title: AutoCAD Sample
 ---
 
-# AutoCAD Samples
+# AutoCAD Sample
 
 Insert text here.
 
