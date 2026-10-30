@@ -12,8 +12,9 @@ Taylor Beebe is a Master of Science student at the University of Central Florida
 - UCF Transcripts
 - Diploma and Certificates
 
-## Technical Writing Proficiency
+## Technical Writing and Presentation
 - [Technical Writing Sample](writing.md)
+- Technical Presentation Sample
 
 ## Software Proficiency
 - [ArcGIS Pro Sample](arcgispro.md)
