@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Cover Letter
+title: AutoCAD Samples
 ---
 
-# Cover Letter
+# AutoCAD Sample
 
-This page contains a cover letter sample written for “ENC 3241: Writing for the Technical Professional.” This sample relates Taylor’s academic and professional background to an “Early Career Environmental Planner” position previously offered by WSP in the U.S. Identifying information (address, phone, and email) has been omitted for the purpose of confidentiality.
+Insert text here.
 
 <center>
   <object data="./assets/ENC 3241_Revised Cover Letter_Prof Edits.pdf" type="application/pdf" width="700px" height="700px">
