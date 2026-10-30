@@ -5,7 +5,7 @@ title: Resume
 
 # Resume
 
-This page contains a resume sample written for “ENC 3241: Writing for the Technical Professional.” This sample includes a summary, education, work experience, volunteer experience, and skills section. Identifying information (address, phone, and email) has been omitted for the purpose of personal confidentiality.
+This page contains Taylor Beebe’s resume document. This document provides Taylor’s current education, certifications, work experience, volunteer experience, and skills.
 
 <center>
   <object data="./assets/ENC 3241_Resume Revised_Prof Edits.pdf" type="application/pdf" width="700px" height="700px">
