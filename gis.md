@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Geographic Information Systems Samples
+title: Geographic Information Systems (GIS) Samples
 ---
 
-# Geographic Information Systems Samples
+# Geographic Information Systems (GIS) Samples
 
 Insert text here.
 
