@@ -5,7 +5,7 @@ title: Resume
 
 # Resume
 
-This page contains Taylor Beebe’s resume document. This document provides Taylor’s current education, certifications, work experience, volunteer experience, and skills.
+This page contains Taylor Beebe’s resume document. Specifically, this document provides Taylor’s current education, certifications, work experience, volunteer experience, and skills. This document was last updated in November 2026.
 
 <center>
   <object data="./assets/Taylor Beebe_Resume_November 2026.pdf" type="application/pdf" width="700px" height="700px">
