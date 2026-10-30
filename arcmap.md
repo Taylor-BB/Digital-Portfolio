@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Geographic Information Systems (GIS) Samples
+title: ArcMap Sample
 ---
 
-# Geographic Information Systems (GIS) Samples
+# ArcMap Sample
 
 Insert text here.
 
