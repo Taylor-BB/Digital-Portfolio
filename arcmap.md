@@ -1,9 +1,9 @@
 ---
 layout: default
-title: ArcMap Sample
+title: ArcMap
 ---
 
-# ArcMap Sample
+# ArcMap
 
 Insert text here.
 
