@@ -16,26 +16,32 @@ This page contains a final project that was completed for the University of Cent
 
 ## Mixed-Use Village 1, Top-Down 
 <center>
-  <img src="./assets/SketchUp_1.jpg" style="max-width: 100%; height: auto; object-fit: contain;">
-    <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_1.pdf">Download JPG</a>.</p>
+  <object data="./assets/SketchUp_1.jpg" type="image/jpeg" width="800" height="500" style="max-width: 100%; height: auto;">
+    <img src="./assets/SketchUp_1.jpg" style="max-width: 100%; height: auto; object-fit: contain;" alt="SketchUp Image">
+    <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_1.jpg">Download JPG</a>.</p>
+  </object>
 </center>
 
 ## Mixed-Use Village 1, Street-View
 <center>
-  <img src="./assets/SketchUp_2.jpg" style="max-width: 100%; height: auto; object-fit: contain;">
+  <object data="./assets/SketchUp_2.jpg" type="image/jpeg" width="800" height="500" style="max-width: 100%; height: auto;">
+    <img src="./assets/SketchUp_2.jpg" style="max-width: 100%; height: auto; object-fit: contain;" alt="SketchUp Image">
     <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_2.jpg">Download JPG</a>.</p>
+  </object>
 </center>
 
 ## Mixed-Use Village 2, Top-Down
 <center>
-  <img src="./assets/SketchUp_3.jpg" style="max-width: 100%; height: auto; object-fit: contain;">
+  <object data="./assets/SketchUp_3.jpg" type="image/jpeg" width="800" height="500" style="max-width: 100%; height: auto;">
+    <img src="./assets/SketchUp_3.jpg" style="max-width: 100%; height: auto; object-fit: contain;" alt="SketchUp Image">
     <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_3.jpg">Download JPG</a>.</p>
   </object>
 </center>
 
 ## Mixed-Use Village 2, Street-View
 <center>
-  <img src="./assets/SketchUp_4.jpg" style="max-width: 100%; height: auto; object-fit: contain;">
+  <object data="./assets/SketchUp_4.jpg" type="image/jpeg" width="800" height="500" style="max-width: 100%; height: auto;">
+    <img src="./assets/SketchUp_4.jpg" style="max-width: 100%; height: auto; object-fit: contain;" alt="SketchUp Image">
     <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_4.jpg">Download JPG</a>.</p>
   </object>
 </center>
