@@ -14,7 +14,7 @@ This page contains documents that were completed for the University of Central F
   </object>
 </center>
 
-## Architectural Plan
+## Architectural Floorplan
 <center>
   <object data="./assets/AutoCAD_1.pdf" type="application/pdf" width="800px" height="450px">
     <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/AutoCAD_1.pdf">Download PDF</a>.</p>
