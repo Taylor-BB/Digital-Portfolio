@@ -16,7 +16,7 @@ This page contains a final project that was completed for the University of Cent
 
 ## Mixed-Use Village 1, Top-Down 
 <center>
-  <img src="./assets/SketchUp_1.jpg" style="max-width: 100%; height: auto;">
+  <img src="./assets/SketchUp_1.jpg" style="max-width: 100%; height: auto; object-fit: contain;">
 </center>
 
 ## Mixed-Use Village 1, Street-View
