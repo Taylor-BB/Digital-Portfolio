@@ -11,14 +11,14 @@ This page also contains a final project that was completed for the University of
 
 ## Advanced GIS Applications in Environmental Studies - Final Map
 <center>
-  <object data="./assets/ArcGISPro.pdf" type="application/pdf" width="800px" height="800px">
+  <object data="./assets/ArcGISPro.pdf" type="application/pdf" width="800px" height="700px">
     <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/ArcGISPro.pdf">Download PDF</a>.</p>
   </object>
 </center>
 
 ## Information Systems for Public Managers and Planners - Final Map
 <center>
-  <object data="./assets/ArcGISPro_2.pdf" type="application/pdf" width="800px" height="1070px">
+  <object data="./assets/ArcGISPro_2.pdf" type="application/pdf" width="800px" height="1100px">
     <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/ArcGISPro_2.pdf">Download PDF</a>.</p>
   </object>
 </center>
