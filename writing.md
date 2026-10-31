@@ -9,7 +9,7 @@ This page contains a final project that was completed for the University of Cent
 
 ## Cooperative Internship - Final Paper
 <center>
-  <object data="./assets/Writing Sample_1.pdf" type="application/pdf" width="800px" height="1069px">
+  <object data="./assets/Writing Sample_1.pdf" type="application/pdf" width="800px" height="1067px">
     <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/Writing Sample_1.pdf">Download PDF</a>.</p>
   </object>
 </center>
