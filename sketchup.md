@@ -9,35 +9,35 @@ This page contains a final project that was completed for the University of Cent
 
 ## Urban Design - Final Presentation
 <center>
-  <object data="./assets/SketchUp_Presentation.pdf" type="application/pdf" width="800px" height="450px">
+  <object data="./assets/SketchUp_Presentation.pdf" type="application/pdf" width="800px" height="500px">
     <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/SketchUp_Presentation.pdf">Download PDF</a>.</p>
   </object>
 </center>
 
 ## Mixed-Use Village 1, Top-Down 
 <center>
-  <object data="./assets/SketchUp_1.jpg" type="application/pdf" width="800px" height="450px">
+  <object data="./assets/SketchUp_1.jpg" type="application/pdf" width="800px" height="500px">
     <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_1.jpg">Download JPG</a>.</p>
   </object>
 </center>
 
 ## Mixed-Use Village 1, Street-View
 <center>
-  <object data="./assets/SketchUp_2.jpg" type="application/pdf" width="800px" height="450px">
+  <object data="./assets/SketchUp_2.jpg" type="application/pdf" width="800px" height="500px">
     <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_2.jpg">Download JPG</a>.</p>
   </object>
 </center>
 
 ## Mixed-Use Village 2, Top-Down
 <center>
-  <object data="./assets/SketchUp_3.jpg" type="application/pdf" width="800px" height="450px">
+  <object data="./assets/SketchUp_3.jpg" type="application/pdf" width="800px" height="500px">
     <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_3.jpg">Download JPG</a>.</p>
   </object>
 </center>
 
 ## Mixed-Use Village 2, Street-View
 <center>
-  <object data="./assets/SketchUp_4.jpg" type="application/pdf" width="800px" height="450px">
+  <object data="./assets/SketchUp_4.jpg" type="application/pdf" width="800px" height="500px">
     <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_4.jpg">Download JPG</a>.</p>
   </object>
 </center>
