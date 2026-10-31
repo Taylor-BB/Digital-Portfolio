@@ -12,7 +12,7 @@ Taylor Beebe is a Master of Science student at the University of Central Florida
 
 ## Writing and Presentation Proficiency
 - [Technical Writing Sample](writing.md)
-- Technical Presentation Sample
+- [Technical Presentation Sample](presentation.md)
 
 ## Software Proficiency
 - [ArcGIS Pro Sample](arcgispro.md)
