@@ -6,11 +6,11 @@ title: Resume
 # Resume
 
 This page contains Taylor Beebe’s resume document. This document provides the following sections: 
-- Education
-- Certifications
-- Work Experience
-- Volunteer Experience
-- Skills
+- Education.
+- Certifications.
+- Work Experience.
+- Volunteer Experience.
+- Skills.
 
 This document was last updated as of November 2026.
 
