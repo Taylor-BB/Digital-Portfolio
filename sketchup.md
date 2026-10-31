@@ -16,11 +16,7 @@ This page contains a final project that was completed for the University of Cent
 
 ## Mixed-Use Village 1, Top-Down 
 <center>
-  
-  
-  <object data="./assets/SketchUp_1.jpg" type="application/pdf" width="800px" height="500px">
-    <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_1.jpg">Download JPG</a>.</p>
-  </object>
+  <img src="./assets/SketchUp_1.jpg" style="max-width: 100%; height: auto;">
 </center>
 
 ## Mixed-Use Village 1, Street-View
