@@ -11,7 +11,7 @@ Taylor Beebe is a Master of Science student at the University of Central Florida
 - [Resume (November 2026)](resume.md)
 - Cover Letter (November 2026)
 
-## Technical Writing and Presentation
+## Technical Writing and Presentation Proficiency
 - [Technical Writing Sample](writing.md)
 - Technical Presentation Sample
 
