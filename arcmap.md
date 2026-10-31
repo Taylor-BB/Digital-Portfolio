@@ -9,7 +9,7 @@ This page contains a final project that was completed for the University of Cent
 
 ## GIS for Environmental Studies - Final Map
 <center>
-  <object data="./assets/ArcMap.pdf" type="application/pdf" width="800px" height="600px">
+  <object data="./assets/ArcMap.pdf" type="application/pdf" width="800px" height="650px">
     <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/ArcMap.pdf">Download PDF</a>.</p>
   </object>
 </center>
