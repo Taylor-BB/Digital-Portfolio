@@ -9,7 +9,6 @@ Taylor Beebe is a Master of Science student at the University of Central Florida
 
 ## Resume and Supporting Documentation
 - [Resume (November 2026)](resume.md)
-- UCF Current Courses
 - Diploma and Certificates
 
 ## Technical Writing and Presentation
