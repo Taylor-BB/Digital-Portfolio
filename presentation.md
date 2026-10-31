@@ -9,7 +9,7 @@ This page contains a final project that was completed for the University of Cent
 
 ## Introduction to Sustainable Design - Final Presentation
 <center>
-  <object data="./assets/Presentation.pdf" type="application/pdf" width="800px" height="800px">
+  <object data="./assets/Presentation.pdf" type="application/pdf" width="800px" height="500px">
     <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/Presentation.pdf">Download PDF</a>.</p>
   </object>
 </center>
