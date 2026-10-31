@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Technical Presentation
+title: Presentation
 ---
 
 # Technical Presentation Sample
