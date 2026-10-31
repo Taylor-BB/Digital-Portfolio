@@ -18,7 +18,7 @@ This page contains a final project that was completed for the University of Cent
 <center>
   <object data="./assets/SketchUp_1.jpg" type="image/jpeg" width="800" height="500" style="max-width: 100%; height: auto;">
     <img src="./assets/SketchUp_1.jpg" style="max-width: 100%; height: auto; object-fit: contain;" alt="SketchUp Image">
-    <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_1.jpg">Download JPG</a>.</p>
+      <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_1.jpg">Download JPG</a>.</p>
   </object>
 </center>
 
@@ -26,7 +26,7 @@ This page contains a final project that was completed for the University of Cent
 <center>
   <object data="./assets/SketchUp_2.jpg" type="image/jpeg" width="800" height="500" style="max-width: 100%; height: auto;">
     <img src="./assets/SketchUp_2.jpg" style="max-width: 100%; height: auto; object-fit: contain;" alt="SketchUp Image">
-    <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_2.jpg">Download JPG</a>.</p>
+      <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_2.jpg">Download JPG</a>.</p>
   </object>
 </center>
 
@@ -34,7 +34,7 @@ This page contains a final project that was completed for the University of Cent
 <center>
   <object data="./assets/SketchUp_3.jpg" type="image/jpeg" width="800" height="500" style="max-width: 100%; height: auto;">
     <img src="./assets/SketchUp_3.jpg" style="max-width: 100%; height: auto; object-fit: contain;" alt="SketchUp Image">
-    <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_3.jpg">Download JPG</a>.</p>
+      <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_3.jpg">Download JPG</a>.</p>
   </object>
 </center>
 
@@ -42,6 +42,6 @@ This page contains a final project that was completed for the University of Cent
 <center>
   <object data="./assets/SketchUp_4.jpg" type="image/jpeg" width="800" height="500" style="max-width: 100%; height: auto;">
     <img src="./assets/SketchUp_4.jpg" style="max-width: 100%; height: auto; object-fit: contain;" alt="SketchUp Image">
-    <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_4.jpg">Download JPG</a>.</p>
+      <p>This browser does not support JPGs. Please download the JPG to view it: <a href="./assets/SketchUp_4.jpg">Download JPG</a>.</p>
   </object>
 </center>
