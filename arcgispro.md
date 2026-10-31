@@ -18,7 +18,7 @@ This page also contains a final project that was completed for the University of
 
 ## Information Systems for Public Managers and Planners - Final Map
 <center>
-  <object data="./assets/ArcGISPro_2.pdf" type="application/pdf" width="800px" height="1300px">
+  <object data="./assets/ArcGISPro_2.pdf" type="application/pdf" width="800px" height="1270px">
     <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/ArcGISPro_2.pdf">Download PDF</a>.</p>
   </object>
 </center>
