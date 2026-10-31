@@ -5,7 +5,7 @@ title: Writing
 
 # Technical Writing Sample
 
-This page contains a final project that was completed for the University of Central Florida’s (UCF) “Cooperative Internship (IDS 3947)” course. As reference, during the summer of 2025, Taylor was a GIS and Administrative Intern at the Palm Beach County (PBC) Planning Division. For this course, she was required to research a modern phenomena that directly shaped her internship’s primary discipline (i.e. GIS and/or planning). For her final project, she chose to research the impact of climate change on coastal communities and how planners have used unique mitigative measures to protect their community’s health and welfare from changing climate conditions.
+This page contains a final project that was completed for the University of Central Florida’s (UCF) “Cooperative Internship (IDS 3947)” course. As reference, during the summer of 2025, Taylor was a GIS and Administrative Intern at the Palm Beach County (PBC) Planning Division. For this course, she was required to research a modern phenomena that directly shaped her internship’s primary discipline (i.e. GIS and/or planning). For her final project, she chose to research the impact of climate change on coastal communities and how planners have used unique mitigative measures to protect their community’s health and welfare from changing climate conditions. All final research was completed and formatted utilizing Microsoft's Word program.
 
 ## Cooperative Internship - Final Research Paper
 <center>
