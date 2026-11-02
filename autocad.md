@@ -28,7 +28,7 @@ This page contains documents that were completed for the University of Central F
   </object>
 </center>
 
-## Foundational Plan
+## Structural Plan
 <center>
   <object data="./assets/AutoCAD_4.pdf" type="application/pdf" width="800px" height="662px">
     <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/AutoCAD_4.pdf">Download PDF</a>.</p>
