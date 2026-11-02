@@ -15,7 +15,8 @@ This page contains Taylor Beebe’s resume document. This document provides the 
 This document was last updated as of November 2026.
 
 <center>
-  <object data="./assets/Taylor Beebe_Resume_November 2026.pdf" type="application/pdf" width="800px" height="1073px">
-    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/Taylor Beebe_Resume_November 2026.pdf">Download PDF</a>.</p>
+  <object data="./assets/Taylor Beebe_Resume_November 2026.pdf" type="application/pdf" width="800px" height="1073px" style="max-width: 100%; height: auto;">
+    <img src="./assets/Taylor Beebe_Resume_November 2026.pdf" style="max-width: 100%; height: auto; object-fit: contain;" alt="Resume">
+      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/Taylor Beebe_Resume_November 2026.pdf">Download PDF</a>.</p>
   </object>
 </center>
